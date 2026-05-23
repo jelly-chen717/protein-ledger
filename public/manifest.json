@@ -1,0 +1,19 @@
+{
+  "name": "增肌账本 / Protein Ledger",
+  "short_name": "增肌账本",
+  "description": "蛋白质摄入记录和日常记账工具",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#fbfcf8",
+  "theme_color": "#277a52",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
